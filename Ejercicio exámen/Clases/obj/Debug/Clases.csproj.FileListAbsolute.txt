@@ -1,0 +1,6 @@
+C:\Users\Javier\source\repos\Ejercicio exámen\Clases\bin\Debug\Clases.dll
+C:\Users\Javier\source\repos\Ejercicio exámen\Clases\bin\Debug\Clases.pdb
+C:\Users\Javier\source\repos\Ejercicio exámen\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Ejercicio exámen\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicio exámen\Clases\obj\Debug\Clases.dll
+C:\Users\Javier\source\repos\Ejercicio exámen\Clases\obj\Debug\Clases.pdb

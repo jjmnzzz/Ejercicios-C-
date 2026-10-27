@@ -1,0 +1,10 @@
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\bin\Debug\Ejercicio exámen.exe.config
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\bin\Debug\Ejercicio exámen.exe
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\bin\Debug\Ejercicio exámen.pdb
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\obj\Debug\Ejercicio exámen.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\obj\Debug\Ejercicio exámen.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\obj\Debug\Ejercicio exámen.exe
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\obj\Debug\Ejercicio exámen.pdb
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\bin\Debug\Clases.dll
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\bin\Debug\Clases.pdb
+C:\Users\Javier\source\repos\Ejercicio exámen\Ejercicio exámen\obj\Debug\Ejercici.E8091524.Up2Date
